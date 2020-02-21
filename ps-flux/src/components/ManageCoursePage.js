@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import CourseForm from "./CourseForm";
 import * as courseApi from "../api/courseApi";
-import Toast, { toast } from "react-toastify";
+import { toast } from "react-toastify";
 
 const ManageCoursePage = props => {
   const [course, setCourse] = useState({

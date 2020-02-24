@@ -9,7 +9,7 @@
     },
     {
       "id": 2,
-      "title": "React: The Big Naked Picture",
+      "title": "React: The Big Picture",
       "slug": "react-big-picture",
       "authorId": 1,
       "category": "JavaScript"
@@ -26,7 +26,7 @@
       "title": "Building a JavaScript Development Environment",
       "slug": "javascript-development-environment",
       "authorId": 1,
-      "category": "JavaScript"
+      "category": "JavaScriptYoYo"
     },
     {
       "id": 5,
@@ -37,7 +37,7 @@
     },
     {
       "id": 6,
-      "title": "Building Applications in React and Flux",
+      "title": "Building Applications in React and Tux",
       "slug": "react-flux-building-applications",
       "authorId": 1,
       "category": "JavaScript"
@@ -69,22 +69,6 @@
       "slug": "web-components-shadow-dom",
       "authorId": 1,
       "category": "HTML5"
-    },
-    {
-      "id": 11,
-      "slug": "testing",
-      "title": "Testing",
-      "authorId": 2,
-      "category": "fgdfgdf",
-      "createdAt": 1582305936563
-    },
-    {
-      "id": 12,
-      "slug": "dfds",
-      "title": "dfds",
-      "authorId": 1,
-      "category": "Jskkkkk",
-      "createdAt": 1582314051735
     }
   ],
   "authors": [
